@@ -34,7 +34,7 @@ const CategoryForm = () => {
                        />
                 </div>
 
-<button type="submit" className="btn btn-primary w-100">Save</button>
+<button type="submit" className="btn btn-warning w-100">Save</button>
             </form>
         </div>
 
