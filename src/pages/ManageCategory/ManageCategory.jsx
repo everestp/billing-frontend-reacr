@@ -1,4 +1,4 @@
-import React from 'react'
+
 import "./ManageCategory.css"
 const ManageCategory = () => {
   return (
